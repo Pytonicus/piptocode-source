@@ -11,8 +11,6 @@ Esta es la documentación que he recopilado para trabajar con Sphinx, un framewo
 
 .. contents:: Índice
 
-**AÑADIR INDICE**
-
 Estilo de fuente
 ################
 Para añadir estilo al texto hay que rodearlo con el siguiente formato:
